@@ -232,8 +232,8 @@ fieldset div input {
   font-weight: 100;
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 70%;
-  left: 15%;
+  top: 75%;
+  left: 20%;
   font-size: 9rem;
   z-index: 1;
 }
@@ -241,17 +241,17 @@ fieldset div input {
   font-weight: bold;
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 65%;
+  top: 70%;
   left: 85%;
-  right: 9%;
+  right: 5%;
   font-size: 2rem;
   text-align: right;
 }
 .booknowBtn {
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 85%;
-  left: 81%;
+  top: 90%;
+  left: 85%;
   font-family: var(--font);
   font-size: 1.5rem;
   color: var(--turquoise);

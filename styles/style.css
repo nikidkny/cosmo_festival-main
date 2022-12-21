@@ -219,7 +219,7 @@ fieldset div input {
   align-items: center;
   height: 100vh;
   position: relative;
-  background-image: url("./public/festivalLanding.jpg");
+  background-image: url("../public/festivalLanding.jpg");
   background-size: cover;
   padding: 3rem 3rem;
   /* text-align: center; */

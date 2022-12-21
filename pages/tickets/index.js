@@ -5,7 +5,6 @@ import Ticket from "../../components/Booking/Ticket";
 import Acommodation from "../../components/Booking/Acommodation";
 import Personal from "../../components/Booking/Personal";
 import Payment from "../../components/Booking/Payment";
-import Thanks from "../../components/Booking/Thanks";
 // import Regtickets from "../../components/Booking/Regticket";
 
 export default function TicketsPage(props) {
